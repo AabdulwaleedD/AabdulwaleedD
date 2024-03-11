@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AabdulwaleedD
-- 👀 I’m interested in learning and reading. I have a feep passion of bioinformatics, medical embryology and neuroanatomy 
+- 👀 I’m interested in learning and reading. I have a deep passion of bioinformatics, medical embryology and neuroanatomy 
 - 🌱 I’m currently learning Human Anatomy as an undergraduate program 
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me abdulwaleedlegend@gmail.com
