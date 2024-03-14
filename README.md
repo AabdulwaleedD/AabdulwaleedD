@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Human Anatomy as an undergraduate program 
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me abdulwaleedlegend@gmail.com
-- 😄 Pronouns: AabdulwaleedD Legend
+- 😄 Pronouns: He
 - ⚡ Fun fact: Read. Reading is fun.
 
 <!---
