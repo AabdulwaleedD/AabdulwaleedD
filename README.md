@@ -1,82 +1,107 @@
 # 👋 Hi, I'm Abdulhamid Abdulwalid Danjuma
 
-📊 **Data Analyst | Healthcare & Research Analytics | SQL • Python • Power BI**
+### Healthcare Data Analyst | Python Automation | SQL | Power BI
 
-I am a **Data Analyst with a strong biomedical background**, passionate about turning raw data into clear insights, reliable metrics, and decisions that matter — especially in **healthcare, life sciences, and research-driven domains**.
+I’m a **Healthcare Data Analyst and Python automation developer** with a background in **Human Anatomy**, focused on turning raw data and repetitive business processes into reliable analysis, dashboards, and practical software solutions.
 
-I hold a degree in **Human Anatomy** from **Sa’adu Zungur University, Bauchi**, where I focused on cancer biology, cell & molecular biology, and computational approaches to scientific research. Today, I apply that same analytical rigor to **data analysis, visualization, and insight generation**.
+My work sits at the intersection of **healthcare, data analytics, automation, and biomedical research**.
 
-Former **President, Anatomical Students Society of Nigeria (ASSON) – SAZU Chapter**, where I led academic initiatives and promoted innovation and collaboration.
-
----
-
-## 🔑 Core Focus
-- Data Cleaning, Validation & Modeling  
-- Exploratory & Descriptive Data Analysis  
-- KPI Design & Performance Tracking  
-- Dashboard Development & Data Storytelling  
-- Translating complex datasets into actionable insights  
+🎓 **B.Sc. Human Anatomy — Sa’adu Zungur University, Bauchi (2025)**
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Do
 
-### 📊 Data Analytics
-- **SQL** – queries, joins, CTEs, data optimization  
-- **Python** – pandas, NumPy, data wrangling & analysis  
-- **Power BI** – dashboards, DAX, data modeling  
-- **Excel** – advanced formulas, pivots, reporting  
-
-### 🧬 Domain & Research Analytics
-- Healthcare & Biomedical Data Interpretation  
-- Cancer & Molecular Biology Research  
-- Computational Biology & Bioinformatics Concepts  
-- R (statistical analysis for research)
-
-### 🌐 Technical Foundations
-- Git & GitHub  
-- HTML, CSS, JavaScript (data-driven web basics)
+- 📊 **Data Analytics** — cleaning, validation, transformation, analysis and reporting
+- 🧮 **SQL** — querying, joins, CTEs, database design and analysis
+- 🐍 **Python** — data analysis, automation, document generation and workflow tools
+- 📈 **Power BI** — dashboards, DAX, data modeling and KPI reporting
+- ⚙️ **Business Process Automation** — replacing repetitive Excel/manual workflows with Python-based systems
+- 🧬 **Biomedical & Bioinformatics Analysis** — research-oriented data analysis and interpretation
 
 ---
 
-## 🧠 Domain Expertise (My Advantage)
-- **Cancer Research** – miRNAs, lncRNAs, oncogenes, tumor suppressors  
-- **Cell & Molecular Biology**  
-- **Reproductive Technology & Immunobiology**  
-- **Healthcare & Clinical Data Context**
+## 🛠️ Tech Stack
+
+**Data & Analytics**
+- Excel
+- SQL Server / MySQL
+- Power BI
+- Power Query
+- DAX
+
+**Programming & Automation**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter
+- Streamlit
+
+**Development**
+- Git
+- GitHub
+- HTML / CSS / JavaScript
+
+**Research**
+- Bioinformatics
+- Gene expression analysis
+- GEO / GEO2R
+- BLAST
+- NCBI
+- UniProt
+- Enrichr / DAVID
 
 ---
 
-## 📂 Featured Projects
-🔹 SQL-based data analysis projects  
-🔹 Power BI dashboards with business & health insights  
-🔹 Python data analysis notebooks  
-🔹 Research-driven analytics projects  
+## 📌 Featured Work
 
-➡️ *See repositories below for full project details.*
+### 🏥 Healthcare Analytics
+- Hospital appointment and operational analytics
+- Patient experience analysis
+- Healthcare financing analysis
+- Diabetes and disease-risk analysis
+- Healthcare KPI dashboards
+
+### 🧬 Biomedical & Bioinformatics
+- Gene expression analysis
+- Type 1 diabetes research analysis
+- Sequence and gene annotation workflows
+- Research data interpretation
+
+### ⚙️ Business Automation
+**SIDI Market Automation** — a Python/SQL automation project for property allocation and market administration, including:
+- Allocation Letter Generator
+- Eligible Allottee Invoice Generator
+- Settlement Invoice Generator
+- SQL-based property analysis
+- Automated document generation and reporting
+
+### 💼 Business Systems
+- Biscuit wholesale CRM/ERP prototype
+- Sales and inventory workflows
+- Customer and product management
+- Reporting and operational dashboards
+
+---
+
+## 🎯 Current Direction
+
+I’m building toward a career in **Healthcare Data Analytics, AI-assisted analytics, and business process automation**.
+
+I’m particularly interested in projects where data is not just analyzed, but turned into **useful systems that help people make better decisions and work more efficiently**.
 
 ---
 
-## 🎯 Career Interests
-- Data Analyst / Junior Data Scientist roles  
-- Healthcare & Biomedical Analytics  
-- Research & Public Health Data Projects  
-- Insight-driven decision support
+## 🤝 Let's Connect
+
+- 📧 **Email:** abdulwaleedlegend@gmail.com
+- 🌐 **Portfolio:** [aabdulwalleedd.github.io](https://aabdulwalleedd.github.io)
+- 💻 **GitHub:** [@AabdulwaleedD](https://github.com/AabdulwaleedD)
 
 ---
 
-## 🤝 Open to Collaboration
-- Data analytics projects (healthcare, research, business)  
-- Power BI dashboards & reporting  
-- SQL & Python analysis projects  
-- Open-source and research-focused analytics
+### ⭐ A little about my approach
 
----
+> **Analyze the data. Understand the problem. Automate what can be automated. Build something useful.**
 
-## 📫 Contact
-- **Email:** abdulwaleedlegend@gmail.com  
-- **WhatsApp:** +234 810 126 5957  
-- **X:** Aabdul_HameedD  
-
----
-⭐ *If you find my work useful, feel free to star a repository or connect.*
